@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b42e7075.css",
+    "main.js": "/static/js/main.693fcb15.js",
+    "static/js/239.59114dc4.chunk.js": "/static/js/239.59114dc4.chunk.js",
+    "static/js/213.49fa0be3.chunk.js": "/static/js/213.49fa0be3.chunk.js",
+    "static/js/732.69bc51ef.chunk.js": "/static/js/732.69bc51ef.chunk.js",
+    "static/js/453.7c8bff71.chunk.js": "/static/js/453.7c8bff71.chunk.js",
+    "static/media/loading-light.gif": "/static/media/loading-light.3b5b1f3325e81ef2e1cc.gif",
+    "static/media/merchant-placeholder.jpg": "/static/media/merchant-placeholder.08fbbd69718f964077f5.jpg",
+    "static/media/drinkPic.jpg": "/static/media/drinkPic.1d61073fe5294883c7e0.jpg",
+    "static/media/avatar.jpg": "/static/media/avatar.8f25c00cfae573939244.jpg",
+    "static/media/gin-icon.png": "/static/media/gin-icon.3a25ed92c17fd3bd11f1.png",
+    "static/media/water-icon.png": "/static/media/water-icon.47373da241ce96771c7f.png",
+    "static/media/vodka-icon.png": "/static/media/vodka-icon.b2fc3cb54ae95f977b5f.png",
+    "static/media/sprite-icon.png": "/static/media/sprite-icon.01f6f4ddae25dac6f242.png",
+    "static/media/fanta-icon.png": "/static/media/fanta-icon.944247bc76e323cb8ad4.png",
+    "static/media/rum-icon.png": "/static/media/rum-icon.037ff61c17bd2338c3f8.png",
+    "static/media/whisky-icon.png": "/static/media/whisky-icon.cd535b94d09e3fe0ccb4.png",
+    "static/media/coke-icon.png": "/static/media/coke-icon.c887f393c16622a0509e.png",
+    "static/media/wine-icon.png": "/static/media/wine-icon.4593476ab2c144de73a6.png",
+    "index.html": "/index.html",
+    "main.b42e7075.css.map": "/static/css/main.b42e7075.css.map",
+    "main.693fcb15.js.map": "/static/js/main.693fcb15.js.map",
+    "239.59114dc4.chunk.js.map": "/static/js/239.59114dc4.chunk.js.map",
+    "213.49fa0be3.chunk.js.map": "/static/js/213.49fa0be3.chunk.js.map",
+    "732.69bc51ef.chunk.js.map": "/static/js/732.69bc51ef.chunk.js.map",
+    "453.7c8bff71.chunk.js.map": "/static/js/453.7c8bff71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42e7075.css",
+    "static/js/main.693fcb15.js"
+  ]
+}

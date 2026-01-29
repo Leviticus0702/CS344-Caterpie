@@ -1,3 +1,13 @@
+## Project Overview – Pourtal
+
+Pourtal is a full-stack drink-ordering and merchant-management platform designed to streamline 
+ordering, inventory management, and real-time order tracking for customers, merchants, and 
+administrators.
+
+The system supports real-time communication, role-based dashboards, and a CLI/WebSocket 
+interaction model for testing and automation. It was built to simulate a production-grade 
+ordering environment similar to modern hospitality platforms.
+
 ## Academic Context
 
 This project was developed as part of the Bachelor of Science in Computer Science program at 

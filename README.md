@@ -1,3 +1,11 @@
+## Academic Context
+
+This project was developed as part of the Bachelor of Science in Computer Science program at 
+Stellenbosch University.
+
+While this was a **group project**, this repository contains the components and contributions 
+I was personally responsible for, including system design and implementation.
+
 *************************************************************************************************
 SYSTEM REQUIREMENTS:
 *************************************************************************************************
